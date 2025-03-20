@@ -22,6 +22,10 @@ Este é o painel administrativo do site Doces do Céu, desenvolvido com Next.js,
 
 Para solicitar acesso ao painel administrativo, entre em contato através do email: info.docesdoceu@gmail.com
 
+## Deploy
+
+Este projeto está hospedado no Vercel.
+
 ## Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes. 
