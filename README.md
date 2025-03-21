@@ -9,7 +9,7 @@ Este é o painel administrativo do site Doces do Céu, desenvolvido com Next.js,
 - Gerenciamento de clientes
 - Dashboard com métricas importantes
 
-## Tecnologias Utilizadas
+## Tecnologias Utilizadas -
 
 - Next.js 14
 - TypeScript
